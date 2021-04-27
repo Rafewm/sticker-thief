@@ -1,6 +1,5 @@
 [telegram]
-token = "1699062794:AAEjuMPyl6VZHqpEvec4i-PAx9sEITOjRk8
-"
+token = "1699062794:AAEjuMPyl6VZHqpEvec4i-PAx9sEITOjRk8"
 workers = 1
 admins = [563239385]
 admins_only = false
@@ -9,8 +8,8 @@ persistent_temp_data = true
 
 [pyrogram]
 enabled = false
-api_id = 0
-api_hash = ""
+api_id = 3124686
+api_hash = "9caf77bd10ed988695be467d34615674"
 
 [sqlite]
 filename = "stickersbot.sqlite"
