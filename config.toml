@@ -1,7 +1,8 @@
 [telegram]
-token = "123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+token = "1699062794:AAEjuMPyl6VZHqpEvec4i-PAx9sEITOjRk8
+"
 workers = 1
-admins = [1234567]
+admins = [563239385]
 admins_only = false
 maintenance_mode = false
 persistent_temp_data = true
